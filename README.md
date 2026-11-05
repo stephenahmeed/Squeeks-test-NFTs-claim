@@ -6,6 +6,10 @@ This is the test distribution, not the production Genesis sale. Cost is 0 ETH pl
 
 Allowances: Gold 6, Silver 4, Bronze / member / unranked 1.
 
+## Video guide
+
+https://x.com/0xStephen_/status/2118278002723500539
+
 ## How to use
 
 1. Open [https://sepolia.squeekchain.com/mint](https://sepolia.squeekchain.com/mint) and stay on that page. The session and CORS only work there.
